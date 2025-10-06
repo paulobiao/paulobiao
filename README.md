@@ -3,6 +3,11 @@
 
 Passionate about building **open-source cybersecurity systems** that strengthen digital resilience in critical sectors — finance 💰, healthcare 🏥, and infrastructure ⚙️.
 
+### Featured Projects
+- 🔐 [SecureBank](https://github.com/paulobiao/SecureBank) — Financial Threat Detection System
+- 🩺 [HealthGuard](https://github.com/paulobiao/HealthGuard) — Healthcare Data Protection
+- 🏙️ [PhysiDigital](https://github.com/paulobiao/PhysiDigital) — Smart Infrastructure Security Monitor
+  
 My work focuses on:
 - 🧠 AI-assisted **threat detection** and **risk scoring**
 - 🛡️ **Data protection** and encryption (AES-256, TLS, HIPAA)
