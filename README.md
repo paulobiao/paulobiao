@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Paulo Biao  
 ### Cybersecurity Engineer | Critical Infrastructure | Open-Source Risk Detection
+### 🔐 Current Research & Development
+
+- **SecureBank™**, **HealthGuard™**, and **PhysiDigital™** – Proprietary systems designed to protect financial, healthcare, and hybrid corporate infrastructures.  
+- **Secure Microservices Integration Framework** – Collaborative initiative combining cybersecurity and software architecture principles to strengthen data protection across distributed systems.
 
 Passionate about building **open-source cybersecurity systems** that strengthen digital resilience in critical sectors — finance 💰, healthcare 🏥, and infrastructure ⚙️.
 
